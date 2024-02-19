@@ -1,0 +1,20 @@
+Short story about user:
+
+[user] was walking down the street, day dreaming about what to [action] with their [animal] at home. "What the hell?" [user] exclaimed.
+They were unable to believe their [body part]! It was not everyday you see a [color] [object] doing the [dance move] with peter griffin in
+[video game]! They turn towards [user] and started to [gymnastic move]. [user] couldn't contain themselves and started to dance the same. Then [user] 
+woke up.
+
+Weirdly they also had a dream about [politician] kissing [youtuber] but they decided the peter griffin dream was cooler.
+
+variables:
+user, 
+action,
+animal,
+color,
+object,
+dance_move,
+video_game,
+gymnastic_move,
+politician,
+youtuber
